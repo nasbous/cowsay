@@ -1,2 +1,5 @@
-const name = 'Nassim Boussaid from Paris Campus';
-module.exports = { name }
+const infos = {
+    name: "Nassim Boussaid",
+    campus: "Paris Campus"
+};
+module.exports = infos;
